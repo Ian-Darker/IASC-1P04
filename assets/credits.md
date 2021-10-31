@@ -1,7 +1,7 @@
 "Restaurant Walla Track"
 Mike Koenig
 
-Licenseed under
+Licensed under
 Creative Commons 
 Attribution 3.0
 
