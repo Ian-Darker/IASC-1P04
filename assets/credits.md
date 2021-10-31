@@ -12,3 +12,7 @@ by DSISStudios
 
 2014 - Liscensed under
 Creative Commons 0
+
+---
+
+"Taco Bell on Aramingo (inside)" by Generic Brand Productions is licensed under CC BY-SA 2.0
